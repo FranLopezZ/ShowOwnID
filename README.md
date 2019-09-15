@@ -1,4 +1,4 @@
-<a href=""><img src="https://i.imgur.com/gFNeiC5.png" width="125" height="125" align="right" /></a>
+<img src="https://i.imgur.com/gFNeiC5.png" width="125" height="125" align="right"/>
 
 # See own id on screen 
 
