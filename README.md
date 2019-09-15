@@ -10,4 +10,4 @@ It is a simple script to always have the id on the screen, discreetly and withou
 -   You can see your ID at any time without pressing any key or entering any command.
 
 ## Screenshot
-Uploading
+<img src="https://i.imgur.com/r6isVYk.png"  align="center" />
