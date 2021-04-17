@@ -14,7 +14,7 @@ It is a simple script to always have the id on the screen, discreetly and withou
 <img src="https://i.imgur.com/r6isVYk.png"  align="center" />
 
 ## 📩 Discord for private communications. <img height=40px src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" />
-**BlackKaiser#4845**
+**BlackKaiser#0010**
 
 # Legal
 ### License
