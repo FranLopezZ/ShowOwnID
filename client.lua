@@ -1,8 +1,12 @@
 CreateThread(function()
     Wait(1000)
     while true do
-        miid(0.815, 1.435, 1.0,1.0,0.50, "~b~ID:~r~  ".. GetPlayerServerId(PlayerId()) .. '', 255, 255, 255, 255)
         Wait(8)
+        if not IsPauseMenuActive() then
+            miid(0.815, 1.435, 1.0,1.0,0.50, "~b~ID:~r~  ".. GetPlayerServerId(PlayerId()) .. '', 255, 255, 255, 255)
+        else
+            Wait(800)
+        end
     end
 end)
 
